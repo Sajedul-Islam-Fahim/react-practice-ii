@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 30,
+      "currency": "USD",
+      "features": [
+        "Access to gym during staffed hours",
+        "Free introductory training session",
+        "Locker room access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 50,
+      "currency": "USD",
+      "features": [
+        "24/7 gym access",
+        "Free introductory training session",
+        "Access to group fitness classes",
+        "Locker room access",
+        "Access to cardio equipment"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 80,
+      "currency": "USD",
+      "features": [
+        "24/7 gym access",
+        "Personal training session (1 per month)",
+        "Access to group fitness classes",
+        "Locker room access",
+        "Access to cardio and strength equipment",
+        "Nutrition consultation"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "VIP Plan",
+      "price": 120,
+      "currency": "USD",
+      "features": [
+        "24/7 gym access",
+        "Unlimited personal training sessions",
+        "Access to all group fitness classes",
+        "Locker room and premium amenities",
+        "Access to cardio and strength equipment",
+        "Monthly nutrition and wellness check-in",
+        "Complimentary guest pass (1 per month)"
+      ]
+    }
+  ]
+  
